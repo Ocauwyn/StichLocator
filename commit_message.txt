@@ -1,0 +1,8 @@
+feat: Implementasi fitur penjahit dan perbaikan relasi database
+
+- Menambahkan fungsionalitas CRUD untuk data penjahit.
+- Memperbaiki relasi database untuk tabel `locations`, `reviews`, dan `users`.
+- Mengubah kolom `rating`, `reviews`, dan `status` di tabel `locations` menjadi nullable.
+- Menambahkan foreign key `location_id` ke tabel `reviews`.
+- Memperbaiki error "Attempt to read property 'name' on null" di halaman admin.
+- Menambahkan relasi `reviews` ke model `User`.

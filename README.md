@@ -13,12 +13,7 @@
 - [Tentang Proyek](#tentang-proyek)
 - [Fitur](#fitur)
 - [Teknologi](#teknologi)
-- [Struktur Folder](#struktur-folder)
-- [Instalasi](#instalasi)
-- [Panduan Penggunaan](#panduan-penggunaan)
 - [Screenshots](#screenshots)
-- [Tim Pengembang](#tim-pengembang)
-- [Lisensi](#lisensi)
 
 ---
 

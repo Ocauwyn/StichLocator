@@ -56,3 +56,14 @@ Banyak penjahit masih mengandalkan pemasaran konvensional, sehingga sulit menjan
 - **Composer** – Pengelolaan dependensi backend
 
 ---
+
+## 📸 Screenshots
+### Halaman Utama
+![Halaman Utama](screenshots/halaman-utama.jpg)
+
+### Popup Detail Penjahit
+![Popup Detail Penjahit](screenshots/detail-penjahit.jpg)
+
+### Dashboard Admin
+![Dashboard Admin](screenshots/dashboard-admin.jpg)
+
